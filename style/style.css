@@ -1,0 +1,6 @@
+.container{
+    border : 3px double  #010080;
+    height: auto;
+    width: 300px;
+    background-color: azure;
+}
